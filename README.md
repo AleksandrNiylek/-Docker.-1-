@@ -62,6 +62,11 @@
  * скриншоты работающих контейнеров;
  * скриншот браузера, где вы открыли дефолтную страницу вашего apache внутри контейнера.
 
+#### Скриншоты:
+![5 1](https://github.com/AleksandrNiylek/-Docker.-1-/assets/136619576/d0a12f85-b3fe-4950-ac06-f9045051c948)
+![5 2](https://github.com/AleksandrNiylek/-Docker.-1-/assets/136619576/e45704ba-28ac-4f20-b7f3-8fade0c58e91)
+![5 3](https://github.com/AleksandrNiylek/-Docker.-1-/assets/136619576/84124af0-c3dc-4f9a-b4d8-ef1ade261869)
+
 ---
 
 ### Задание 6*
@@ -70,3 +75,7 @@
 1. Приложите:
  * скриншот содержимого Dockerfile;
  * скриншот браузера, где apache2 из вашего контейнера выводит ваши ФИО.
+
+#### Скриншоты:
+![6 1](https://github.com/AleksandrNiylek/-Docker.-1-/assets/136619576/b6f09027-6790-4123-904a-c73c7329f451)
+![6 2](https://github.com/AleksandrNiylek/-Docker.-1-/assets/136619576/388c03a4-2270-4e88-a6f7-5134879d4a42)
